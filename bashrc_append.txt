@@ -1,3 +1,5 @@
 alias down='cd ~/Downloads'
 alias docu='cd ~/Documents'
 alias home='cd ~/'
+alias requ='source ./venv/bin/activate;pip freeze>requirements.txt;deactivate'
+
