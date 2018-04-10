@@ -1,5 +1,5 @@
 sudo apt-get install gvim-gnome
-sudo apt-get install git
+sudo apt-get install git, mercurial
 #python dev and virtualenvwrapper
 
 sudo apt-get install python-dev
@@ -15,3 +15,5 @@ sudo apt-get install libxslt-dev
 
 sudo pip install virtualenv
 sudo pip install virtualenvwrapper
+
+sudo apt-get install terminator
