@@ -1,5 +1,7 @@
 alias down='cd ~/Downloads'
 alias docu='cd ~/Documents'
 alias home='cd ~/'
+# For this to work it is necessary to be in the main 
+# folder of the django project(for pycharm project)
 alias requ='source ./venv/bin/activate;pip freeze>requirements.txt;deactivate'
 
